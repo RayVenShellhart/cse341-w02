@@ -25,5 +25,6 @@
     "nodemon": "^2.0.15"
   },
   "keywords": [],
-  "type": "commonjs"
+  "type": "commonjs",
+  "devDependencies": {}
 }
